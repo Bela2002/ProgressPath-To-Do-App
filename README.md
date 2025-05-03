@@ -34,6 +34,7 @@ Progress Path is a clean and minimal to-do list application built using pure **H
 ## 🌐 Live Demo
 
 https://bela2002.github.io/ProgressPath-To-Do-App/
+
 ---
 
 ## 📦 How to Use
